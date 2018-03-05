@@ -1,39 +1,39 @@
 /* add your CSS here */
-.card{
+.card {
   border: 2px solid #e0e7e3;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 10px 10px 24px 0px rgba(206,207,184,0.58);
   border-radius: 0px;
-  width:340px;
-  margin-left: 35%;
-  font-family: arial,sans-serif;
+  width: 340px;
+  margin: 35;
+  font-family: helvitica,arial,sans-serif;
 }
 
-.information{
+.information {
   border: 2px solid #e0e7e3;
-  padding: 0 8px 0 8px;
-  margin:5px;
+  padding: 0;
+  margin: 5;
   border-radius: 0px;
 }
 
-.starImg{
-  width:300px;
-  padding: 0 10px 0 10px;
-  margin:0 5px 0 5px;
+.starImg {
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
   border-radius: 0px;
 }
-.italic{
+.italic {
   font-style: italic;
  
 }
-.bold{
+.bold {
   font-weight: bold;
 }
-.nobullets{
+.nobullets {
   list-style-type: none;
   padding-left:0;
 }
  
-.left{
+.left {
   text-align: left;
 }
